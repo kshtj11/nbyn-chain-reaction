@@ -1,1 +1,1 @@
-# nbyn-chain-reaction
+# Chain reaction n by n
