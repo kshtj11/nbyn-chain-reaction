@@ -1,2 +1,2 @@
-## Chain reaction n by n
-# download the cr.exe to play 
+# Chain reaction n by n
+### Download the cr.exe to play 
